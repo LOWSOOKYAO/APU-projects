@@ -18,3 +18,6 @@ To develop a functional system with proper UI/UX design and planning.
 - Structured interface design
 - User-centered design approach
 - Project presentation and documentation
+
+## Preview
+https://www.figma.com/design/6yEJl7O3Mp8EWw4AllxKYO/Capstone-Project?t=TTZXA3Y4FHXc51Rp-1
