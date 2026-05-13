@@ -17,3 +17,6 @@ To design a user-friendly and modern interface for the system.
 
 ## Tools Used
 - Figma
+
+## Preview
+https://www.figma.com/design/RWDDye7EQkHOqA4HT18wDJ/SYAD?node-id=0-1&t=VzLvL9Q5tR08Vgyk-1
