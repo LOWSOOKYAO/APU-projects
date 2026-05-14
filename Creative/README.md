@@ -14,7 +14,7 @@ This folder contains personal video editing and creative multimedia projects cre
 - Alight Motion
 - Node Video
 - Video Star
-- Canva
+- Canva (https://canva.link/pf3rh7d56yro6hq)
 
 ## Project Types
 - Anime edits
