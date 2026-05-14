@@ -1,0 +1,66 @@
+﻿/* ========================================
+   STAFF MODULE - COMPLETE MODERN CSS
+   RideShare@APU Green Theme
+   ======================================== */
+
+/* Import Poppins Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* ========== GLOBAL STAFF STYLES ========== */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e8efe8 100%);
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body > header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    z-index: 900;
+}
+
+/* Ensure sidebar sits above header when open */
+.leftSideBar {
+    z-index: 2000;
+}
+
+.leftSideBar .closeButton {
+    z-index: 1101;
+}
+
+/* Allow sidebar to cover the header area */
+.leftSideBar {
+    top: 0;
+    height: 100vh;
+    padding-top: 0;
+    box-sizing: border-box;
+}
+
+main {
+    min-height: calc(100vh - 120px);
+    padding: 60px 40px 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+@media (max-width: 560px) {
+    html {
+        font-size: 14px;
+    }
+
+    main {
+        padding: 52px 14px 20px;
+    }
+}
+
+
