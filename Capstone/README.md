@@ -1,6 +1,7 @@
 # Capstone Project (Travel Planning System)
 
 This is my final year project developed as part of my Diploma in ICT.
+This project is a Travel Planning and Sharing System. I designed wireframes and landing pages, including dark mode and light mode concepts.
 
 ## Project Objective
 To develop a functional system with proper UI/UX design and planning.
