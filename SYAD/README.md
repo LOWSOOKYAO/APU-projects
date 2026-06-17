@@ -1,6 +1,6 @@
 # SYAD UI Design Project (Event System)
 
-This project is a UI/UX design developed using Figma for a system interface.
+This project is an Event Management System. I designed interfaces for managing events and viewing transaction information using Figma.
 
 ## Project Objective
 To design a user-friendly and modern interface for the system.
