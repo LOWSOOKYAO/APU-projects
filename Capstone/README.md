@@ -1,4 +1,4 @@
-# Capstone Project
+# Capstone Project (Travel Planning System)
 
 This is my final year project developed as part of my Diploma in ICT.
 
