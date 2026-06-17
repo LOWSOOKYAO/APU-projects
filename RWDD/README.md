@@ -1,6 +1,6 @@
 # RWDD Ride Share Website
 
-This project is a ride-sharing website UI designed using Figma.
+This is a Ride Share Website project. My role was designing and developing the staff interface. I used Figma for the UI design and HTML, CSS, and JavaScript to develop the webpages.
 
 Features:
 - Responsive UI design
