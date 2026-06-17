@@ -1,4 +1,4 @@
-# SYAD UI Design Project
+# SYAD UI Design Project (Event System)
 
 This project is a UI/UX design developed using Figma for a system interface.
 
